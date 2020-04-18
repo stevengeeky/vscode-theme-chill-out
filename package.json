@@ -1,0 +1,22 @@
+{
+    "name": "chill-out",
+    "displayName": "Chill Out Theme",
+    "publisher": "sporiley",
+    "description": "A relaxed theme that doesn't try too hard in order to alleviate distractions and facilitate focus",
+    "version": "0.0.2",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Chill Out",
+                "uiTheme": "vs-dark",
+                "path": "./themes/chill-out.json"
+            }
+        ]
+    }
+}
