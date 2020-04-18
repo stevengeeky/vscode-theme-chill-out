@@ -1,9 +1,12 @@
 {
     "name": "chill-out",
+    "repository": {
+        "url": "https://github.com/stevengeeky/vscode-theme-chill-out"
+    },
     "displayName": "Chill Out Theme",
     "publisher": "sporiley",
     "description": "A relaxed theme that doesn't try too hard in order to alleviate distractions and facilitate focus",
-    "version": "0.0.2",
+    "version": "0.0.1",
     "engines": {
         "vscode": "^1.44.0"
     },
